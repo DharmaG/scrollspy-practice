@@ -1,0 +1,34 @@
+body {
+    position: relative;
+}
+#section1 {
+  padding-top:50px;
+  height:500px;
+  color: #fff;
+  background-color: #fdbcb4;
+}
+
+#section2 {
+  padding-top:50px;
+  height:500px;
+  color: #fff;
+  background-color: #fbceb1;
+}
+#section3 {
+  padding-top:50px;
+  height:500px;
+  color: #fff;
+  background-color: #fed8b1;
+}
+#section41 {
+  padding-top:50px;
+  height:500px;
+  color: #fff;
+  background-color: #ffe5b4;
+}
+#section42 {
+  padding-top:50px;
+  height:500px;
+  color: #fff;
+  background-color: #ffefd5;
+}
